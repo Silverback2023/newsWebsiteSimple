@@ -1,0 +1,27 @@
+.news-tile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 400px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  .news-tile img {
+    max-width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  .news-tile h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .news-tile p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
